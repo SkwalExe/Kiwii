@@ -1,0 +1,32 @@
+{
+  "name": "kiwii",
+  "version": "1.0.0",
+  "description": "Discord bot made in node.js",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkwalExe/Kiwii.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discord",
+    "robot",
+    "Skwal",
+    "Kiwii",
+    "SkwalExe"
+  ],
+  "author": "SkwalExe, KushiiExe",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/SkwalExe/Kiwii/issues"
+  },
+  "homepage": "https://github.com/SkwalExe/Kiwii#readme"
+}
